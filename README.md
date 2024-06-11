@@ -4,7 +4,7 @@ tool designed to extract domain names from input text, optionally adding prefixe
 # Installation
 
 ```
-https://github.com/XJOKZVO/Nerd.git
+git clone https://github.com/XJOKZVO/Nerd.git
 ```
 
 # Options:
